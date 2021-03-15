@@ -1,5 +1,6 @@
 # Multi-face detection
 Front end of multiple faces recognition app.
+
 Created with React.
 
 1. Clone this repo
