@@ -1,6 +1,8 @@
 # Multi-face detection
 Front end of multiple faces recognition app.
 
+https://multiface-detection.herokuapp.com/
+
 Created with React.
 
 1. Clone this repo
